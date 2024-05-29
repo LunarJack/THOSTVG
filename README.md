@@ -1,2 +1,2 @@
 # THOSTVG
- The History Of SEGA The Video Game
+This is a Game boy game I made for a school project in 6th grade with GB studio
